@@ -1,0 +1,5 @@
+homepage: "https://www.skynettechnologies.com"
+documentation: "https://www.example.com/documentation"
+versions:
+  - sha: 
+    changeNotes: Initial release.
