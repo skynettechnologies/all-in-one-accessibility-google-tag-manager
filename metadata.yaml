@@ -1,5 +1,11 @@
-homepage: "https://www.skynettechnologies.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://www.skynettechnologies.com/all-in-one-accessibility"
+documentation: "https://www.skynettechnologies.com/blog/google-tag-manager-web-accessibility-widget-installation"
 versions:
-  - sha: 
-    changeNotes: Initial release.
+  # Latest Version
+    - sha: 
+    changeNotes: metadata updated
+  # Previous Versions
+  - sha: 47459f5a695de3a996704a1a553cc7408481e918
+    changeNotes: metadata updated
+  - sha: a6665a2b987f30210b7811ded5035f6b84a61c8d
+    changeNotes: first commit
