@@ -1,6 +1,6 @@
 # All in One Accessibility: Google Tag Manager
 
-[All in One Accessibility](https://www.skynettechnologies.com/all-in-one-accessibility) widget improves website ADA compliance and browser experience for ADA, WCAG 2.1, 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA Standards.
+[All in One Accessibility](https://www.skynettechnologies.com/all-in-one-accessibility) widget improves website ADA compliance and browser experience for ADA, WCAG 2.1 & 2.2, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, France RGAA, Brazilian Inclusion Law (LBI 13.146/2015), Spain UNE 139803:2012, JIS X 8341 (Japan), Italian Stanca Act and Switzerland DDA Standards.
 
 It uses the accessibility interface which handles UI and design related adjustments. All in One Accessibility app enhances your website accessibility to people with hearing or vision impairments, motor impaired, color blind, dyslexia, cognitive & learning impairments, seizure and epileptic, and ADHD problems.
 
@@ -38,21 +38,21 @@ It uses the accessibility interface which handles UI and design related adjustme
 
 #### Supports 50+ languages
 - English
-- Spanish
-- German
-- Arabic
-- Slovak
-- Portuguese
-- French
 - Italian
-- Polish
-- Turkish
-- Japanese
-- Finnish
+- French
+- German
 - Russian
+- Spanish
+- Finnish
+- Portuguese
+- Arab
+- Polish
 - Hungarian
-- Latin
+- Slovak
+- Japanese
+- Turkish
 - Greek
+- Latin
 - Hebrew
 - Bulgarian
 - Catalan
@@ -63,7 +63,6 @@ It uses the accessibility interface which handles UI and design related adjustme
 - Hindi
 - Indonesian
 - Korean
-- Lithuanian
 - Malay
 - Norwegian
 - Romanian
@@ -73,11 +72,36 @@ It uses the accessibility interface which handles UI and design related adjustme
 - Ukrainian
 - Vietnamese
 - Bengali
+- Lithuanian
 - Sinhala
 - Amharic
 - Hmong
-- Myanmar (Burmese)
-- more.
+- Burmese
+- Latvian
+- Estonian
+- Serbian
+- Portuguese (Brazil)
+- Chinese Traditional
+- Croatian
+- Georgian
+- Hawaiian
+- Welsh
+- Cebuano
+- Samoan
+- Haitian Creole
+- Faroese
+- Montenegrin
+- Australian
+- Azeri
+- Basque
+- Canada
+- Filipino
+- Galician
+- Norwegian
+- Persian
+- Punjabi
+- Spanish (Mexico)
+- United Kingdom
 
 ## Screenshots
 
