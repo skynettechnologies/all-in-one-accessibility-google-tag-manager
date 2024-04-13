@@ -40,9 +40,15 @@ ___TEMPLATE_PARAMETERS___
 
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
-// Enter your template code here.
 const injectScript = require('injectScript');
-injectScript('https://www.skynettechnologies.com/accessibility/js/all-in-one-accessibility-js-widget-minify.js?colorcode=#420083&token=' + data.aioa_licensekey + '&position=bottom_right.aioa-icon-type-1.aioa-default-icon',data.gtmOnSuccess, data.gtmOnFailure);
+const encode = require('encodeUriComponent');
+
+const colorcode = '420083';
+const token = data.aioa_licensekey;
+const position = 'bottom_right.aioa-icon-type-1.aioa-default-icon';
+
+injectScript('https://www.skynettechnologies.com/accessibility/js/all-in-one-accessibility-js-widget-minify.js?colorcode='+encode(colorcode)+'&token=' + encode(token) + '&position='+encode(position),data.gtmOnSuccess, data.gtmOnFailure);
+
 
 
 ___WEB_PERMISSIONS___
