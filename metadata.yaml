@@ -2,9 +2,11 @@ homepage: "https://www.skynettechnologies.com/all-in-one-accessibility"
 documentation: "https://www.skynettechnologies.com/blog/google-tag-manager-web-accessibility-widget-installation"
 versions:
   # Latest version
-  - sha: 30fab6a1d155a762cfaf93a88678e615dfde144c
+  - sha: 279637a8f7a44ba1726a48759e12e696facebad8
     changeNotes: Template, README.md files updated.
   # Older versions
+  - sha: 30fab6a1d155a762cfaf93a88678e615dfde144c
+    changeNotes: Template, README.md files updated.
   - sha: fddb4e56a08fc2be7568a3eeb21c53687d5aa1a7
     changeNotes: README.md updated
   - sha: ca07b3c628a58af9c608738cf2a2a5285210af1c
